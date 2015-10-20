@@ -11,5 +11,5 @@ Atapus danon al Noktojn
 Rarara, masi Ritojn
 Rarara, masi Ritojn
 Rarara, rarara, masi Ritojn
-Ad la Tempon, partu del Mondom
+Bis la Tempon, partu del Mondom
 Narus ale, narus ale nŭana et hikara
