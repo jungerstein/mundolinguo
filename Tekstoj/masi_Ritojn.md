@@ -23,7 +23,7 @@ Rarara, masi Ritojn
 
 Rarara, rarara, masi Ritojn
 
-Bis la Tempon, partu del Mondom
+Bis la Tempon, partu del Mundom
 
 Narus ale, narus ale nŭana et hikara
 
