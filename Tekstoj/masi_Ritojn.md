@@ -11,7 +11,7 @@ Narus multajn, multajn Ritojn
 
 Atapus danon Antartikom
 
-Atapus danon Artike
+Atapus danon artike
 
 Atapus danon ad Fujojn
 
