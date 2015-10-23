@@ -13,9 +13,9 @@ Atapus danon Antartikom
 
 Atapus danon Artike
 
-Atapus danon al Fujojn
+Atapus danon ad Fujojn
 
-Atapus danon al Noktojn
+Atapus danon ad Noktojn
 
 Rarara, masi Ritojn
 
