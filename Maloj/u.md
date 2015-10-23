@@ -1,6 +1,5 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
-te                      | you              | LA
-Tempo                   | time             | LA
+Unŝo                    | wish             | DE Wunsch
 
 
