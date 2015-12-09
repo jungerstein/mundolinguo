@@ -8,7 +8,7 @@ Gúŝ 19
 
 Xañ kÿ vän-y Lí, gek z Tjan it Ñja. 
 
-Däŭlü zú kret ĉañ, ¿hüjmjën an ké ẑ? 
+Däŭlü zú kret ĉañ, ¿ hüjmjën an ké ẑi ? 
 
 Hu-má i Bejkfeñ, Yet-njáŭ ĉaŭ nan Ẑ. 
 
