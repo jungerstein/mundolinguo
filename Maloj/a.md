@@ -1,7 +1,10 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
 ad                      | to               | LA
+akirami                 | to give up       | JA
+akordi                  | to agree         | FR, IT > LA
 ale                     | all              | EN, DE
+ander-                  | other            | DE
 anke                    | also             | IT
 Antartiko               | Antartica        | LA
 ari                     | to have          | JA

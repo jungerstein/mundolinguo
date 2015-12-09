@@ -1,6 +1,6 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
-uter                    | which one        | LA
-Unŝo                    | wish             | DE Wunsch
+ili                     | they             | EO
+in                      | in               | LA, EN
 
 
