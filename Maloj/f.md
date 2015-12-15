@@ -6,6 +6,7 @@ fari                    | to make (one do) | LA < FR
 Fejo                    | leg              | CN
 Feño                    | wind             | CN
 finala                  | final            | LA
+flava                   | yellow           | LA
 Froŝo                   | frog             | DE
 Fujo                    | winter           | JA
 fuki                    | to blow          | JA

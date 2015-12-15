@@ -1,8 +1,13 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
+kami                    | to bite          | JA
 Karnjo                  | dog              | LA
 Kato                    | cat              | EO < IT, ES, GR
-ki                      | who              | LA
+ke                      | what             | IT > LA
+Kemuro                  | smoke            | JA
+ki                      | who              | IT > LA
+kiki                    | to hear          | JA
+Kokoro                  | heart            | JA
 kuri                    | to come          | JA
 kŭareli                 | to quarrel       | EN?
 kŭatro                  | four             | LA

@@ -1,6 +1,6 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
-ĉika                    | red              | CN
-ĉu                      | whether          | EO
+Geno                    | root             | CN
+Guto                    | bone             | CN
 
 

@@ -1,6 +1,5 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
-ĉika                    | red              | CN
-ĉu                      | whether          | EO
+Zuko                    | foot             | CN
 
 
