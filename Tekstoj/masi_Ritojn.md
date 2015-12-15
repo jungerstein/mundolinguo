@@ -3,7 +3,7 @@ Masi Ritojn
 
 Ĵe aras dana belan Unŝon
 
-Dum dŭaos povus masi Ritojn
+Dum dŭos povus masi Ritojn
 
 Sole dano, dano suficus
 
