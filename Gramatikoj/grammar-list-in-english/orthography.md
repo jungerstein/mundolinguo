@@ -5,19 +5,30 @@ Alphabet
 --------
 
 The mundolinguo has 35 letters. They are
-
------|-----|-----|-----|-----
+     
  A a | B b | C c | Ĉ ĉ | D d 
+-----|-----|-----|-----|-----
  E e | F f | G g | Ĝ ĝ | H h
  Ĥ ĥ | I i | J j | Ĵ ĵ | K k 
  L l | M m | N n | Ñ ñ | O o 
  P p | Q q | R r | S s | Ŝ ŝ
  T t | U u | Ŭ ŭ | V v | W w 
  X x | Y y | Z z | Æ æ | Ø ø 
------|-----|-----|-----|-----
 
 W w is only reserved for transcriptions; no native words use w. 
 Archaic writings use the letters with circumflex as well: ^d, ^k, ^t, ^z. 
+
+The letters have their own names. Most names are from a noun starting 
+with the letter, but with a "xo" suffix. 
+
+Asroxo  | Baŭmoxo | Capitoxo | Ĉunoxo | Dioxo  |
+--------|---------|----------|--------|--------|
+Elekroxo| Fejoxo  | Genoxo   | Ĝaŭkoxo| Haneoxo|
+Ĥyanoxo | Iloxo   | Jepoxo   | Ĵeoxo  | Kemuroxo|
+Laktoxo | Mundoxo | Nebloxo  | Ñyetoxo| Oroxo  |
+Plejnoxo| Qioxo   | Ritoxo   | Sunaoxo| Ŝitoxo |
+Tjenoxo | Unŝoxo  | Ŭñxo     | Vejoxo | Ŝŭañvejoxo|
+Xinoxo  | Yxo     | Zukoxo   | Æxo    | Øxo    |
 
 Words from Japanese
 -------------------
