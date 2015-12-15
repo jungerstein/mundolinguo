@@ -1,6 +1,7 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
 ad                      | to               | LA
+Ajeno                   | eye              | HE
 akirami                 | to give up       | JA
 akordi                  | to agree         | FR, IT > LA
 ale                     | all              | EN, DE

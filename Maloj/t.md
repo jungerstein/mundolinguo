@@ -6,5 +6,6 @@ tajta                   | tight            | EN
 te                      | you              | LA
 teri                    | to shine         | JA
 Tempo                   | time             | LA
+tri                     | three            | EO > LA
 
 

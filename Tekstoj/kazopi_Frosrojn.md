@@ -1,6 +1,6 @@
 Kazopi Froŝojn
 ==============
-ŭ
+ 
 Dan Froŝo aras dan Oron, ŝŭañ Ajenojn, et kŭatro Fejojn. 
 
 Ŝŭañ Froŝoj aras ŝŭañ Orojn, kŭatro Ajenojn, et oĥo Fejojn. 
