@@ -14,6 +14,7 @@ The mundolinguo has 35 letters. They are
 | P p | Q q | R r | S s | Ŝ ŝ |
 | T t | U u | Ŭ ŭ | V v | W w |
 | X x | Y y | Z z | Æ æ | Ø ø |
+|-----|-----|-----|-----|-----|
 
 W w is only reserved for transcriptions; no native words use w. 
 Archaic writings use the letters with circumflex as well: ^d, ^k, ^t, ^z. 
