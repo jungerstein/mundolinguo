@@ -1,8 +1,8 @@
 Verbs
 =====
 
-Declension
-----------
+Conjunctions
+------------
 
 * Infinitive: Stam + -i
 * Tempo & Mood: 
