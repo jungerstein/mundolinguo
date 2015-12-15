@@ -42,13 +42,15 @@ letter to i.
 -ru, and then change (or retain) the final letter of the remaining part to
 i. 
 
+1. Do not use rendaku. 
+
 1. Use archaic kana-dukapi. Write p- for h- sound amid and at end of a word. 
 Keep uj, ŭe and uo. 
 
 1. For the final letter, write s- for sa-gjau, c- for ta-gjau, z- for za-gjau, d- for da-gjau. 
 
-1. For other letters, ŝi is si, ĉi is ti, cu is tu, ĵi is zi, di is di, and
-du is du. 
+1. For other letters, write ŝi for si, ĉi for ti, cu for tu, ĵi for zi, 
+  di for di, and du for du. 
 
 The rules for adjectives follow ones for verbs, but
 
