@@ -39,6 +39,12 @@ Xinoxo  | Yxo     | Zukoxo   | Æxo    | Øxo    |
 
 TODO: Names for the archaic letters. 
 
+Capitalization
+--------------
+
+1. The first letter in a sentence is always capitalized. 
+1. The first letter of a noun is always capitalized. 
+
 Sound of Letters
 ----------------
 1. Letters from Esperanto sound as in Esperanto. 
@@ -94,3 +100,11 @@ The rules for adjectives follow ones for verbs, but
 
 1. For -nari (modern -na) words, write -nara for Mundolinguo dictionary form. 
 
+Punctuations
+------------
+* The punctuations are named as: 
+1. TODO
+* High punctuations are
+1. TODO
+
+before and after a high punctuation, a space (or linebreak) must be present. 
