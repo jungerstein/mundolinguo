@@ -30,6 +30,22 @@ Plejnoxo| Qioxo   | Ritoxo   | Sunaoxo| Ŝitoxo |
 Tjenoxo | Unŝoxo  | Ŭñxo     | Vejoxo | Ŝŭañvejoxo|
 Xinoxo  | Yxo     | Zukoxo   | Æxo    | Øxo    |
 
+Pronunciation
+-------------
+1. Letters from Esperanto sound as in Esperanto. 
+1. New letter Ñ can be pronounced (1) either as Chinese ng in deng, or 
+   English ng in sing, or German ng in Klang (but not as in klingen); 
+   (2) or as French gn in montagne, or Italian gn in ogni, or Spanish ñ
+   in año. 
+1. New letter Q shall be rendered as Mandarin Chinese q in qi. 
+1. New letter W is not used in any ``native'' word. 
+1. New letter X shall be rendered as Mandarin Chinese x in xi. 
+1. New letter Y shall be rendered as Mandarin Chinese yu, or French huit, 
+   or German ü in über. 
+1. New letter Æ shall be rendered as German ä in fährt, or Danish æ in æble. 
+1. New letter Ø shall be rendered as French œ in cœur, or German ö in öffnen, 
+   or Danish ø in dør. 
+
 Words from Japanese
 -------------------
 
@@ -42,7 +58,7 @@ letter to i.
 -ru, and then change (or retain) the final letter of the remaining part to
 i. 
 
-1. Do not use rendaku. 
+1. Never use rendaku.  
 
 1. Use archaic kana-dukapi. Write p- for h- sound amid and at end of a word. 
 Keep uj, ŭe and uo. 
