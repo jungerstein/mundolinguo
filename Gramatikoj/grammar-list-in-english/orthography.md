@@ -30,8 +30,8 @@ Plejnoxo| Qioxo   | Ritoxo   | Sunaoxo| Ŝitoxo |
 Tjenoxo | Unŝoxo  | Ŭñxo     | Vejoxo | Ŝŭañvejoxo|
 Xinoxo  | Yxo     | Zukoxo   | Æxo    | Øxo    |
 
-Pronunciation
--------------
+Sound of Letters
+----------------
 1. Letters from Esperanto sound as in Esperanto. 
 1. New letter Ñ can be pronounced (1) either as Chinese ng in deng, or 
    English ng in sing, or German ng in Klang (but not as in klingen); 
@@ -45,6 +45,13 @@ Pronunciation
 1. New letter Æ shall be rendered as German ä in fährt, or Danish æ in æble. 
 1. New letter Ø shall be rendered as French œ in cœur, or German ö in öffnen, 
    or Danish ø in dør. 
+1. In ``native'' words, the letters A, E, I, O, U, Y, Æ, and Ø are considered
+   as vowels; J, and Ŭ are always consonances. 
+1. In variants that use W, the letter W can be rendered either as a vowel
+   or as a consonance; yet the usage shall be consistent. 
+
+Syllables and Accents
+---------------------
 
 Words from Japanese
 -------------------
