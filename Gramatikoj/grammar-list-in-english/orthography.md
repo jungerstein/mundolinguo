@@ -103,8 +103,11 @@ The rules for adjectives follow ones for verbs, but
 Punctuations
 ------------
 * The punctuations are named as: 
+
 1. TODO
+
 * High punctuations are
+
 1. TODO
 
 before and after a high punctuation, a space (or linebreak) must be present. 
