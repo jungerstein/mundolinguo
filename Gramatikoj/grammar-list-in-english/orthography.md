@@ -4,7 +4,7 @@ Orthography
 Alphabet
 --------
 
-The mundolinguo has 35 letters. They are
+The mundolinguo has 35 letters. They are, in order, 
      
  A a | B b | C c | Ĉ ĉ | D d 
 -----|-----|-----|-----|-----
@@ -16,7 +16,14 @@ The mundolinguo has 35 letters. They are
  X x | Y y | Z z | Æ æ | Ø ø 
 
 W w is only reserved for transcriptions; no native words use w. 
+
+Collocation is always in this order above. 
+
 Archaic writings use the letters with circumflex as well: ^d, ^k, ^t, ^z. 
+^D collocates right after D and before E, 
+^K right after K and before L, 
+^T right after T and before U, 
+^Z right after Z and before Æ. 
 
 The letters have their own names. Most names are from a noun starting 
 with the letter, but with a "xo" suffix. 
@@ -30,6 +37,8 @@ Plejnoxo| Qioxo   | Ritoxo   | Sunaoxo| Ŝitoxo |
 Tjenoxo | Unŝoxo  | Ŭñxo     | Vejoxo | Ŝŭañvejoxo|
 Xinoxo  | Yxo     | Zukoxo   | Æxo    | Øxo    |
 
+TODO: Names for the archaic letters. 
+
 Sound of Letters
 ----------------
 1. Letters from Esperanto sound as in Esperanto. 
@@ -37,9 +46,13 @@ Sound of Letters
    English ng in sing, or German ng in Klang (but not as in klingen); 
    (2) or as French gn in montagne, or Italian gn in ogni, or Spanish ñ
    in año. 
-1. New letter Q shall be rendered as Mandarin Chinese q in qi. 
+1. New letter Q shall be rendered as Mandarin Chinese q in qi ; an 
+   alternative rendering as Ĉ shall also be accepted, yet in spelling
+   no confusion between the both letters is allowed. 
 1. New letter W is not used in any ``native'' word. 
-1. New letter X shall be rendered as Mandarin Chinese x in xi. 
+1. New letter X shall be rendered as Mandarin Chinese x in xi ; an
+   alternative rendering as Ŝ shall also be accepted, yet in spelling
+   no confusion between the both letters is allowed. 
 1. New letter Y shall be rendered as Mandarin Chinese yu, or French huit, 
    or German ü in über. 
 1. New letter Æ shall be rendered as German ä in fährt, or Danish æ in æble. 
