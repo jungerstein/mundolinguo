@@ -1,6 +1,7 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
 kami                    | to bite          | JA
+kapari                  | to add           | JA
 Karnjo                  | dog              | LA
 Kato                    | cat              | EO < IT, ES, GR
 ke                      | what             | IT > LA
