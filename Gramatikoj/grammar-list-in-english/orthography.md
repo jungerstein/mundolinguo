@@ -69,6 +69,13 @@ Sound of Letters
 1. In variants that use W, the letter W can be rendered either as a vowel
    or as a consonance; yet the usage shall be consistent. 
 
+Spelling Rules
+--------------
+
+1. Do not put three constants together. If a compound word will have three constants
+   together, always add a hyphen therein; elsewhere, spellings must be simplified, 
+   and only the first and last constants shall remain, e.g. GR astro -> asro. 
+
 Syllables and Accents
 ---------------------
 
