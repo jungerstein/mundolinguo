@@ -1,5 +1,6 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
+Malo                    | word             | KR, NO
 Mantŭo                  | coat, cloak      | FR
 masi                    | to sow           | JA
 Miĉio                   | path, way        | JA
