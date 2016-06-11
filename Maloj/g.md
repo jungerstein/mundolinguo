@@ -1,6 +1,7 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
-gaŭ                     | power (math.)    | CN
+gaŭ                     | power (math.)prep| CN
+Gaŭo                    | power (math.)    | CN
 Geno                    | root             | CN
 Guto                    | bone             | CN
 
