@@ -22,7 +22,7 @@ The cardinal numbers one to ten are
 Zero
 ----
 
-The number zero is expressed with _koño_. It does not negate a sentence, nor a word/phrase. 
+The number zero is expressed with _koño_. It does not negate a sentence, nor a word/phrase. It is never used in numbers not 0. 
 
 Larger numbers
 --------------
@@ -37,6 +37,8 @@ Larger numbers
   That prevents the numbers being tampered. In cheques, they must be written joined together **without hyphens** (of course, the additional marks and points of i shall be added after the joined long stroke). 
   1. To spell 333333333333, one writes tristotridekatriqangaŭtriuq-tristotridekatriqangaŭŝuañuq-tristotridekatriqan-tristotridekatri. 
   1. To spell 666666666666, one writes muc-stomucdekamucqangaŭtriuqmuc-stomucdekamucqangaŭŝuañuqmuc-stomucdekamucqanmuc-stomucdekamuc. 
+  1. To spell 111111111111, one writes stodekadanqangaŭtriuq-stodekadanĝangaŭŝŭañuq-stodekadanqan-stodekadan. 
+  1. Remember the hyphens are for **orthologic requirements**, not for **segmenting the long numbers**. 
   1. Years do not have special readings. The year 2016 reads Njeno ŝŭañqandekamuc. The year 4713 reads Njeno kŭatroqannanastodekatri.  
 1. In cheques or other occasions where temperings should be avoided with great care, 
   1. the dates will be written differently. 
