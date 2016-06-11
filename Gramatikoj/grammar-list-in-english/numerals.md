@@ -45,4 +45,5 @@ Larger numbers
     1. The numbers 11, 12 etc. are dandekadan, dandekaŝŭañ etc. 
     1. The number 10, 20 etc. are dandekasole, ŝŭañdekasole etc. 
   1. The "round numbers" ending with 0 shall add _sole_ to the end, e.g. qanŝŭañdekasole Renoj. 
+  1. The leading "dan" shall be written. E.g. 111 is danstodekadan; not _dan-stodekadan_, _stodekadan_, or _danstodandekadan_. 
   
