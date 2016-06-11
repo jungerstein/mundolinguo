@@ -41,9 +41,7 @@ Larger numbers
   1. Remember the hyphens are for **orthologic requirements**, not for **segmenting the long numbers**. 
   1. Years do not have special readings. The year 2016 reads Njeno ŝŭañqandekamuc. The year 4713 reads Njeno kŭatroqannanastodekatri.  
 1. In cheques or other occasions where temperings should be avoided with great care, 
-  1. the dates will be written differently. 
-    1. The numbers 11, 12 etc. are dandekadan, dandekaŝŭañ etc. 
-    1. The number 10, 20 etc. are dandekasole, ŝŭañdekasole etc. 
+  1. The numbers 0 to 9 (inclusive) shall add _sole_ to the _beginning_, as solekoño, soledan, soleŝŭañ, soletri etc. 
   1. The "round numbers" ending with 0 shall add _sole_ to the end, e.g. qanŝŭañdekasole Renoj. 
   1. The leading "dan" shall be written. E.g. 111 is danstodekadan; not _dan-stodekadan_, _stodekadan_, or _danstodandekadan_. 
   
