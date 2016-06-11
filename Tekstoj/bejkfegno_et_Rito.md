@@ -10,7 +10,7 @@ Noĉie la Bejkfeño fukis cujoŝe ekreme, sed pli li fukis,
 pli tajte la Tabioreno tajtis sian Mantŭon, 
 et finale la Bejkfeño akiramis la Temeŝon. 
 
-Noĉie la Rito teris nŭane, et soforte la Tabioreno fanhaki sian Mantŭon. 
+Noĉie la Rito teris nŭane, et soforte la Tabioreno fanhaki sias Mantŭon. 
 
 Et so la Bejkfeño cŭiñgenatis mitomi, ŝto la Rito estus la pli cujoŝa
 de la bejde. 
