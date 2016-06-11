@@ -32,11 +32,13 @@ Larger numbers
 1. One million = qangaŭŝŭañuq
 1. 10^9 = qangaŭtriuq
 1. 10^12 = qangaŭkŭatrouq and so on. 
-1. Positive integers are written together. No _dan_ before _deka_, _sto_, _qan_ etc. However, between n or q and tr (so one watches out before 3), according to the orthology, a hyphen must be used (but except in cheques).  
-  1. To spell 299792458, one writes ŝuañstonovedekanoveqangaŭŝŭanuqnanastonovedekaŝŭañqankŭatrostopentadekaoĥo. 
-  That prevents the numbers being tampered. In cheques, they must be written joined together (of course, the additional marks and points of i shall be added after the joined long stroke). 
+1. Positive integers are written together. No _dan_ before _deka_, _sto_, _qan_ etc. However, between n, ñ, or q and tr (so one watches out before 3), and between n, c, ñ, or q and st (so also watch out before 100), according to the orthology, a hyphen must be used (but except in cheques).  
+  1. To spell 299792458, one writes ŝuañ-stonovedekanoveqangaŭŝŭanuqnanastonovedekaŝŭañqankŭatrostopentadekaoĥo. 
+  That prevents the numbers being tampered. In cheques, they must be written joined together **without hyphens** (of course, the additional marks and points of i shall be added after the joined long stroke). 
+  1. To spell 333333333333, one writes tristotridekatriqangaŭtriuq-tristotridekatriqangaŭŝuañuq-tristotridekatriqan-tristotridekatri. 
+  1. To spell 666666666666, one writes muc-stomucdekamucqangaŭtriuqmuc-stomucdekamucqangaŭŝuañuqmuc-stomucdekamucqanmuc-stomucdekamuc. 
   1. Years do not have special readings. The year 2016 reads Njeno ŝŭañqandekamuc. The year 4713 reads Njeno kŭatroqannanastodekatri.  
-1. In cheques or other occasions where temperings should be avoided, 
+1. In cheques or other occasions where temperings should be avoided with great care, 
   1. the dates will be written differently. 
     1. The numbers 11, 12 etc. are dandekadan, dandekaŝŭañ etc. 
     1. The number 10, 20 etc. are dandekasole, ŝŭañdekasole etc. 
