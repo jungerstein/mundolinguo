@@ -1,6 +1,8 @@
 Cardinal numbers
 ================
 
+The standard orthography of cardinal numbers are spelled, then in Roman numerals, then in Arabic numerals. 
+
 One to Ten
 ----------
 
