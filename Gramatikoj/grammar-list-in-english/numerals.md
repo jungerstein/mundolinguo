@@ -1,0 +1,42 @@
+Cardinal numbers
+================
+
+One to Ten
+----------
+
+The cardinal numbers one to ten are
+
+1. dan
+1. ŝŭañ
+1. tri
+1. kŭatro       Different from Esperanto kvar
+1. penta
+1. muc
+1. nana
+1. oĥo          Different from Esperanto ok
+1. nove 
+1. deka         Different from Esperanto dek
+
+Zero
+----
+
+The number zero is expressed with _koño_. It does not negate a sentence, nor a word/phrase. 
+
+Larger numbers
+--------------
+
+1. One hunderd = sto. 
+1. One thousand = qan. 
+1. One million = qangaŭŝŭañuq
+1. 10^9 = qangaŭtriuq
+1. 10^12 = qangaŭkŭatrouq and so on. 
+1. Positive integers are written together. No _dan_ before _deka_, _sto_, _qan_ etc. However, between n or q and tr (so one watches out before 3), according to the orthology, a hyphen must be used (but except in cheques).  
+  1. To spell 299792458, one writes ŝuañstonovedekanoveqangaŭŝŭanuqnanastonovedekaŝŭañqankŭatrostopentadekaoĥo. 
+  That prevents the numbers being tampered. In cheques, they must be written joined together (of course, the additional marks and points of i shall be added after the joined long stroke). 
+  1. Years do not have special readings. The year 2016 reads Njeno ŝŭañqandekamuc. The year 4713 reads Njeno kŭatroqannanastodekatri.  
+1. In cheques or other occasions where temperings should be avoided, 
+  1. the dates will be written differently. 
+    1. The numbers 11, 12 etc. are dandekadan, dandekaŝŭañ etc. 
+    1. The number 10, 20 etc. are dandekasole, ŝŭañdekasole etc. 
+  1. The "round numbers" ending with 0 shall add _sole_ to the end, e.g. qanŝŭañdekasole Renoj. 
+  
