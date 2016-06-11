@@ -23,6 +23,15 @@ Cases
   1. Dative: -om
   1. Accusative: -on
 
+Different Types of Genitives
+----------------------------
+1. TODO: Definition
+1. Example
+  1. For "Mario's love"
+    1. Mariox Amo, which means Mario loves someone. 
+    1. Marioc Amo, which means someone loves Mario. 
+    1. Marios Amo, which refers to _love_ per se as a quality that Mario has. 
+
 Numbers
 =======
 1. Plural nouns must bear the sign -j-. 
