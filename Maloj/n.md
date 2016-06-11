@@ -6,6 +6,7 @@ Nano                    | man              | CN
 nari                    | to become        | JA
 Neblo                   | cloud            | LA
 nemi                    | to sleep         | JA
+Njeno                   | year             | CN
 noĉie                   | afterwards       | JA
 Nokto                   | night            | LA
 nomi                    | to drink         | JA
