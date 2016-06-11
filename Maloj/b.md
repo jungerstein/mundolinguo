@@ -1,6 +1,6 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
-bajka                   | tree             | DE
+bajka                   | white            | CN
 Baŭmo                   | tree             | DE
 Baŭmopio                | bark             | + 
 bejde                   | both             | DE, in DE pron. as baj-, in MUN as bej-
