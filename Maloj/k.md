@@ -9,6 +9,7 @@ Kemuro                  | smoke            | JA
 ki                      | who              | IT > LA
 kiki                    | to hear          | JA
 Kokoro                  | heart            | JA
+koño                    | zero             | CN > KO
 kuri                    | to come          | JA
 kŭareli                 | to quarrel       | EN?
 kŭatro                  | four             | LA
