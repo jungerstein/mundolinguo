@@ -11,6 +11,7 @@ so                      | so (in this way) | EN, DE
 soforte                 | at once          | DE
 sole                    | only             | LA
 Spermo                  | seed             | LA
+sto                     | hundred          | RU
 Stomako                 | belly            | EN
 sufici                  | to suffit        | LA
 Sunao                   | sand             | JA
