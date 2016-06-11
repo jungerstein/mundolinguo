@@ -12,5 +12,7 @@ Conjunctions
 1. Subjunctive / Conditional: + -us
 * Participle: 
 1. Present: + -ant
-1. Past / Passive: + -at NOTE: passive sentences do not use aux verb; use forms -atas, -atis ... instead. One can have passive infinites -ati. 
+1. Past: + -int
+1. Future: + -ont
+1. Passive: + -at NOTE: passive sentences do not use aux verb; use forms -atas, -atis ... instead. One can have passive infinites -ati. The Esperanto endings -it, -ot are not used. 
 
