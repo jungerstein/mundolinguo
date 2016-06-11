@@ -1,9 +1,9 @@
-Masi Ritojn
+Maki Ritojn
 
 
 Ĵe aras dana belan Unŝon
 
-Dum dŭos povus masi Ritojn
+Dum dŭos povus maki Ritojn
 
 Sole dano, dano suficus
 
@@ -17,11 +17,11 @@ Atapus danon ad Fujojn
 
 Atapus danon ad Noktojn
 
-Rarara, masi Ritojn
+Rarara, maki Ritojn
 
-Rarara, masi Ritojn
+Rarara, maki Ritojn
 
-Rarara, rarara, masi Ritojn
+Rarara, rarara, maki Ritojn
 
 Bis la Tempon, partu del Mundom
 
