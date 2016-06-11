@@ -1,8 +1,8 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
+maki                    | to sow           | JA
 Malo                    | word             | KR, NO
 Mantŭo                  | coat, cloak      | FR
-masi                    | to sow           | JA
 Miĉio                   | path, way        | JA
 Mimio                   | ear              | JA
 mitomi                  | to confess       | JA
