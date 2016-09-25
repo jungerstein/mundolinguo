@@ -4,21 +4,21 @@ Gúŝ 19
 Ĥiñ-ĥiñ ĉuñ ĥiñ-ĥiñ
 -------------------
 
-Ĥiñ-ĥiñ ĉuñ ĥiñ, ý Ĝyn ŝeñ bjetli. 
+Ĥiñ-ĥiñ ĉuñ ĥiñ, ÿ Ĝyn ŝeñ bjetli. 
 
-Xañ kÿ vän-y Lí, gek z Tjan it Ñja. 
+Xañ ký ván-y Lï, gek z Tjen it Ñja. 
 
-Däŭlü zú kret ĉañ, ¿ hüjmjën an ké ẑi ? 
+Dáŭlú zü kjet ĉañ, ¿ húj-mjén an kë ẑi ? 
 
-Hu-má i Bejkfeñ, Yet-njáŭ ĉaŭ nan Ẑ. 
+Hu-mä i Bejkfeñ, Yet-njäŭ ĉaŭ nam Ẑ. 
 
 
 
-Xañ kÿ rit í yán, Idäj rit í hŭán. 
+Xañ ký rit ï yän, Idáj rit ï hŭän. 
 
-Fukyn bï Bajkrit, Joŭzí bgü fán. 
+Fuk-yn bí Bajkrit, Jŭzï bgú fän. 
 
-S-ĝyn líñ Ren láŭ, Süj-ñyet hu í ván. 
+Si-ĝyn líñ Ren läŭ, Súj-ñyet hu ï vän. 
 
-Krï ĝyan v fuk däŭ, núlik ĝa Canfän. 
+Kí ĝyan v fuk dáŭ, nülik ĝa Canfán. 
 
