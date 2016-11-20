@@ -25,7 +25,18 @@ Cases
 
 Different Types of Genitives
 ----------------------------
-1. TODO: Definition
+1. There are 3 types of genitives for a Mundolingo noun. 
+  1. The __active genitive__ ends with __-x__, referring to actions / things
+     made by the genetive noun. 
+  1. The __passive genitive__ ends with __-c__, referring to actions / things
+     suffered / received by the genetive noun. 
+  1. The __possive genitive__ ends with __-s__, referring to actions / things
+     possessed by the genetive noun. 
+1. If one does not need to distinguish the types of genitives in the context, 
+   the _possive genitive_ is preferred. 
+1. In spoken Mundolingo where the types of genitives do not mean a lot, 
+   the _possive genitive_ is spoken; the three endings sound alike, 
+   and any type is acceptable. 
 1. Example
   1. For "Mario's love"
     1. Mariox Amo, which means Mario loves someone. 
