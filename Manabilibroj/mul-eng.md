@@ -2,6 +2,8 @@
 
 Lesson One (In Garden)
 
+## A
+
 1. Sano arukas. 
   Sano walks. 
 1. Belo anke arukas. 
@@ -25,5 +27,16 @@ Lesson One (In Garden)
 1. Belo aras Karnojn. La Karnjo voŭnas. Sano aras Katon. La Kato mjaŭas. 
 La Karnjo et la Kato haŝiras. 
   Belo has a dog. The dog woofs. Sano has a cat. The cat miaus. The dog and the cat run. 
+
+## B
+
 1. Ĵe non arukas pju. Ĵe suparas. 
   I do not walk more. I sit. 
+1. Ĵe suparas umcu ikopi.  
+  I sit down to have a rest. 
+1. Sano suparas zajte.  
+  Sano sits aside. 
+1. Ĵe topas Sanon, '¿te estas-bu fatiga? ' 
+  I ask Sano, 'are you not tired? '
+1. Ĵe topas Sanon, '¿ĉu te estas fatiga? ' 
+  I ask Sano, 'are you tired? '

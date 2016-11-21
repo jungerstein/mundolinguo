@@ -12,6 +12,7 @@ teri                    | to shine         | JA
 Tempo                   | time             | LA
 Tjeno                   | sky, heaven      | CN
 Tjenoŝujo               | rain             | +
+topi                    | to ask           | JA
 tri                     | three            | EO > LA
 
 
