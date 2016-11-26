@@ -75,6 +75,7 @@ Spelling Rules
 1. Do not put three constants together. If a compound word will have three constants
    together, always add a hyphen therein; elsewhere, spellings must be simplified, 
    and only the first and last constants shall remain, e.g. GR astro -> asro. 
+   * However, ŭ, and j do not count as a constant in this rule. 
 1. When i, and u meet adjacently in _one syllable_, always __change i to j__, and __keep u__. 
    That means always spelling as ju, uj ; instead of iŭ, ŭi. 
 
