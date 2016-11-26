@@ -2,6 +2,7 @@ Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
 Sano                    | Sano (Name)      | LA
 Sañŭo                   | blood            | FR > LA
+se                      | if               | LA
 sed                     | but              | LA
 seŝa                    | dry              | FR
 senti                   | to smell         | LA
