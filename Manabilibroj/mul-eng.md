@@ -40,3 +40,14 @@ La Karnjo et la Kato haŝiras.
   I ask Sano, 'are you not tired? '
 1. Ĵe topas Sanon, '¿ĉu te estas fatiga? ' 
   I ask Sano, 'are you tired? '
+1. Sano kotapas ŝto li bu estas fatiga. 
+  Sano answers that he is not tired. 
+1. Sano ipas ŝto li suparas vajl li ĝanas ĵen supari. 
+  Sano says that he sits because he sees me sit. 
+1. Sano volas hanaŝi kum ĵem. 
+  Sano wants to talk with me. 
+
+## C
+
+1. Nos ĝanas hoĥan Baŭmon. 
+  We see a high tree / a tall tree. 

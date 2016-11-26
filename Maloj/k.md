@@ -10,6 +10,8 @@ ki                      | who              | IT > LA
 kiki                    | to hear          | JA
 Kokoro                  | heart            | JA
 koño                    | zero             | CN > KO
+kotapi                  | to answer        | JA
+kum                     | with (accompany) | LA
 kuri                    | to come          | JA
 kŭareli                 | to quarrel       | EN?
 kŭatro                  | four             | LA
