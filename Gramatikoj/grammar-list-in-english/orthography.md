@@ -39,6 +39,26 @@ Xinoxo  | Yxo     | Zukoxo   | Æxo    | Øxo    |
 
 TODO: Names for the archaic letters. 
 
+### Ersatz-forms
+
+1. When ^d, ^k, and ^t are not available (e.g. in Unicode), use respectively Θθ, Ǩǩ, and Þþ. 
+1. The circumflux can be written __in front of__ the base-letter in question. 
+1. Æ æ can be replaced by Ä ä, and Ø ø can be replaced by Ö ö or Œ œ. 
+1. When only basic Latin letters are available, the circumfluxed letters are converted to upper-case; if it is upper-cased, double it. 
+1. When only upper-case Latin letters are available, use the tri-graph forms below: 
+  * Ĉ = CXC
+  * ^D = DXD
+  * Ĝ = GXG
+  * Ĥ = _XHX_    That is different. 
+  * Ĵ = _XJX_    Also different. 
+  * ^K = KXK
+  * Ñ = _GNG_
+  * Ŝ = SXS
+  * ^T = TXT
+  * Ŭ = _UWU_
+  * Æ = EAE
+  * Ø = EOE
+
 Capitalization
 --------------
 
@@ -120,4 +140,4 @@ Punctuations
 
 1. TODO
 
-before and after a high punctuation, a space (or linebreak) must be present. 
+before and after a high punctuation, a space (or linebreak if before ¿¡, or after other high punctuations) must be present. 
