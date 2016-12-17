@@ -121,7 +121,7 @@ Syllables and Accents
 1. Do break j/ŭ + non-j-ŭ + vowel after j or ŭ unless it violates other rules. 
    * E.g. bajka is baj-ka, not bajk-a (though in the source language the form _bajk_ is a word). 
 1. Accents always fall on the last second syllable. 
-   * If the accent has to be fall otherwise, the acute accent must be written out e.g. kákaka, kakaká. 
+   * If the accent has to be fall otherwise, the acute accent must be written out e.g. kákaka, kakaká. 
    * When introducing new words, try to arrange the spelling so that the accents fall on the last second syllable. 
    * The accents are put word-widely even in compound words: kakáka + ta = kakakáta, not kakákatá. 
      * In multi-part compound words, the part accents can be kept as _weaker_ than the main accent if no violations. 
@@ -130,7 +130,7 @@ Syllables and Accents
        1. Move the main accent. 
        1. Have two accented syllables in one part. 
        E.g. kakáka + táta + pa = kakàkatatápa, but not kakàkatàtápa, not kakàkatàtapá. 
-   
+
 Words from Japanese
 -------------------
 
