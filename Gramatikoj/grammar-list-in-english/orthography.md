@@ -132,6 +132,8 @@ Syllables and Accents
        1. Have two accented syllables in one part. 
        
        E.g. kakáka + táta + pa = kakàkatatápa, but not kakàkatàtápa, not kakàkatàtapá. 
+1. Break syllables despite the boundary of compound parts. Kŭatrosto (400) is __read as__ kŭat-ros-to, not kŭat-ro-sto. 
+1. When breaking lines, use boundary of compound parts, and then syllables breakings within each part. Kŭatrosto is __broken between lines as__ kŭat-ro-sto, not as the reading kŭat-ros-to. 
 
 Words from Japanese
 -------------------
