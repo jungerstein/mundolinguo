@@ -19,6 +19,14 @@ The cardinal numbers one to ten are
 1. nove 
 1. deka         Different from Esperanto dek
 
+When communication is bad (e.g. over noised phone) or mis-hearings are not allowed, the numbers one to nine can be read in proper contexts as
+
+DA, ŜU, TI, KO, PE, MY, NØ, OĤ, EN. 
+
+To distinguish four and eight more clearly, Ĥ in OĤ must be pronounced very hard and strong. 
+
+In such cases zero is read as Æ. 
+
 Zero
 ----
 
