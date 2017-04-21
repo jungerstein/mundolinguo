@@ -48,12 +48,12 @@ Numbers
 1. Plural nouns must bear the sign -j-. 
 1. Hence, the plural endings are -oj, -ojx, -ojc, -ojs, -ojm, -ojn. 
 1. Plural is used after a cardinal number different from the exact integer 1 expressed as the integer per se. Hence in Mundolingo one says
-    * 2 Maloj
-    * 5 Maloj
-    * 21 Maloj
-    * 0 Maloj
-    * 1,4 Maloj
-    * 1,00000 Maloj
-    * -1 Maloj
-    * 1/1 Maloj (as a fraction)
-    * 1 Malo
+    * 2 Maloj 
+    * 5 Maloj 
+    * 21 Maloj 
+    * 0 Maloj 
+    * 1,4 Maloj 
+    * 1,00000 Maloj 
+    * -1 Maloj 
+    * 1/1 Maloj (as a fraction) 
+    * 1 Malo 
