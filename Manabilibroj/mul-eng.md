@@ -66,6 +66,6 @@ La Karnjo et la Kato haŝiras.
   We look at the flowers. 
 1. La Florojn estas in buonaĵiranajm Sekojm. 
   The flowers are in different colours. 
-1. La Sekoj estas : Marono, Ĉiko, Dajdajo, Flavo, Lyko, Lamo, Murasako, Griso, Bajko, et Ĥyano. 
+1. La Sekoj estas : Marono, Ĉiko, Dajdajo, Flavo, Lyko, Glamo, Murasako, Griso, Bajko, et Ĥyano. 
   The colours are: brown, red, orange, yellow, green, blue, violet, grey, white, and black. 
 
