@@ -11,6 +11,7 @@ sia                     | his (own)        | EO
 so                      | so (in this way) | EN, DE
 soforte                 | at once          | DE
 sole                    | only             | LA
+Sono                    | garden           | JA
 Spermo                  | seed             | LA
 sto                     | hundred          | RU
 Stomako                 | belly            | EN

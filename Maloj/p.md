@@ -1,5 +1,6 @@
 Malo                    | English          | Source
 ----------------------- | ---------------- | --------------
+par                     | by (passive)     | FR
 partu                   | everywhere       | FR
 penta                   | five             | GR
 perdi                   | to lost          | LA

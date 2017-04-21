@@ -8,6 +8,7 @@ Fejo                    | leg              | CN
 Feño                    | wind             | CN
 finala                  | final            | LA
 flava                   | yellow           | LA
+Floro                   | flower           | LA
 Froŝo                   | frog             | DE
 Fujo                    | winter           | JA
 fuki                    | to blow          | JA

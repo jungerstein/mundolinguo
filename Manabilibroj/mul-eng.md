@@ -51,3 +51,11 @@ La Karnjo et la Kato haŝiras.
 
 1. Nos ĝanas hoĥan Baŭmon. 
   We see a high tree / a tall tree. 
+1. La Baŭmo estas lyka. 
+  The tree is green. 
+1. La Baŭmo aras lykajn Jepojn. 
+  The tree has green leaves. 
+1. La Jepoj juras. 
+  The leaves tremble. / The leaves are trembling. 
+1. La Feño faras la Jepojn juri. 
+  The wind makes the leaves tremble. 
