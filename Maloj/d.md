@@ -1,6 +1,7 @@
 Malo                    | English            | Source
 ----------------------- | ------------------ | --------------
 da                      | yes                | RU
+dajdaja                 | orange (colour)    | JA
 dan                     | one                | CN
 dañi                    | should             | CN
 de                      | of                 | LA 
