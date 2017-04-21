@@ -109,11 +109,10 @@ Syllables and Accents
    * E.g. kŭatro is kŭat-ro, not kŭa-tro. 
    * E.g. kast has to be kast. However, Mundolingŭo word forming evades the case for most times. 
    * J and ŭ do not count as final-consonant here. They also do not count as the second, third etc. initial-consonant. 
-1. Preferably break between two non-j-ŭ-consonants. E.g. kŭatro is kŭat-ro, not kŭa-tro. 
 1. Do not break j or ŭ from the vowel directly before it, unless in the case of the following statement. 
    * E.g. oja is oj-a, not o-ja. 
 1. If j or ŭ does not have a vowel directly before it, but have one directly after it, do not break inbetween. 
-   * E.g. kjal is kjal, not kj-al. 
+   * E.g. ukjal is u-kjal, not uk-jal. 
    * It is a simple conclusion from the rule of one vowel, one syllable. 
    * However, when there is still j or ŭ directly after the vowel, the break must be there if it is necessary to break syllables. 
       * E.g. kjaj (no necessarity to break), kja-ja (need to break), kŭaj, kŭa-ja, kjaŭ, kja-ŭø, kŭøŭ, kŭø-ŭæ. 
