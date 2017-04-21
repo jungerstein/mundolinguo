@@ -102,6 +102,39 @@ Spelling Rules
 Syllables and Accents
 ---------------------
 
+1. One vowel forms and only forms one syllable. 
+   * E.g. kŭatro is two syllables kŭat-ro, and if it were spelt as kuatro, there would be three syllables ku-at-ro. 
+   * E.g. Tabioreno is five syllables ta-bi-o-re-no. If it were spelt as Tabjoreno, there would be four: ta-bjo-re-no. 
+1. One syllable has only one final-consonance whenever possible. 
+   * E.g. kŭatro is kŭat-ro, not kŭa-tro. 
+   * E.g. kast has to be kast. However, Mundolingŭo word forming evades the case for most times. 
+   * J and ŭ do not count as final-constant here. 
+1. Preferably break between two non-j-ŭ-consonances. E.g. kŭatro is kŭat-ro, not kŭa-tro. 
+1. Do not break j or ŭ from the vowel directly before it, unless in the case of the following statement. 
+   * E.g. oja is oj-a, not o-ja. 
+1. If j or ŭ does not have a vowel directly before it, but have one directly after it, do not break inbetween. 
+   * E.g. kjal is kjal, not kj-al. 
+   * It is a simple conclusion from the rule of one vowel, one syllable. 
+   * However, when there is still j or ŭ directly after the vowel, the break must be there if it is necessary to break syllables. 
+      * E.g. kjaj (no necessarity to break), kja-ja (need to break), kŭaj, kŭa-ja, kjaŭ, kja-ŭø, kŭøŭ, kŭø-ŭæ. 
+1. Do not break non-j-ŭ-consonance + j/ŭ + vowel unless no other possibilities exist. 
+   * E.g. Karnjo is kar-njo, Sañŭo is sa-ñŭo. 
+1. Do break j/ŭ + non-j-ŭ-consonannce + vowel after j or ŭ unless it violates other rules. 
+   * E.g. bajka is baj-ka, not bajk-a (though in the source language the form _bajk_ is a word). 
+1. Accents always fall on the last second syllable. 
+   * If the accent has to be fall otherwise, the acute accent must be written out e.g. kákaka, kakaká. 
+   * When introducing new words, try to arrange the spelling so that the accents fall on the last second syllable. 
+   * The accents are put word-widely even in compound words: kakáka + ta = kakakáta, not kakákatá. 
+     * In multi-part compound words, the part accents can be kept as _weaker_ than the main accent if no violations. 
+     * Violation means 
+       1. Break other spelling rules. 
+       1. Move the main accent. 
+       1. Have two accented syllables in one part. 
+       
+       E.g. kakáka + táta + pa = kakàkatatápa, but not kakàkatàtápa, not kakàkatàtapá. 
+1. Break syllables despite the boundary of compound parts. Kŭatrosto (400) is __read as__ kŭat-ros-to, not kŭat-ro-sto. 
+1. When breaking lines, use boundary of compound parts, and then syllables breakings within each part. Kŭatrosto is __broken between lines as__ kŭat-ro-sto, not as the reading kŭat-ros-to. 
+
 Words from Japanese
 -------------------
 
