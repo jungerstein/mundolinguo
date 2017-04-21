@@ -4,9 +4,10 @@ Sano                    | Sano (Name)      | LA
 Sañŭo                   | blood            | FR > LA
 se                      | if               | LA
 sed                     | but              | LA
-seŝa                    | dry              | FR
+Seko                    | colour           | CN
 senti                   | to smell         | LA
 Sentilo                 | nose             | +
+seŝa                    | dry              | FR
 sia                     | his (own)        | EO
 so                      | so (in this way) | EN, DE
 soforte                 | at once          | DE
