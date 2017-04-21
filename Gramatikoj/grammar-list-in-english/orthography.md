@@ -105,7 +105,7 @@ Syllables and Accents
 1. One vowel forms and only forms one syllable. 
    * E.g. kŭatro is two syllables kŭat-ro, and if it were spelt as kuatro, there would be three syllables ku-at-ro. 
    * E.g. Tabioreno is five syllables ta-bi-o-re-no. If it were spelt as Tabjoreno, there would be four: ta-bjo-re-no. 
-1. One syllable has only one final-consonant whenever possible. 
+1. One syllable has a single final-consonant and a single initial-consonant whenever possible. 
    * E.g. kŭatro is kŭat-ro, not kŭa-tro. 
    * E.g. kast has to be kast. However, Mundolingŭo word forming evades the case for most times. 
    * J and ŭ do not count as final-constant here. 
