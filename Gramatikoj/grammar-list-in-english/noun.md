@@ -52,6 +52,7 @@ Numbers
     * 5 Maloj 
     * 21 Maloj 
     * 0 Maloj 
+    * 0,8 Maloj 
     * 1,4 Maloj 
     * 1,00000 Maloj 
     * -1 Maloj 
