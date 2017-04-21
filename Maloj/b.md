@@ -11,5 +11,5 @@ bis                     | to (the time)    | DE
 bu-                     | not- (as affix)  | CN
 budŭa                   | small            | +
 buhejsa                 | cold             | +
-
+buonaĵinara             | different        | +
 
