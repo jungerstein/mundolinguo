@@ -149,7 +149,7 @@ i.
 1. Never use rendaku.  
 
 1. Use archaic kana-dukapi. Write p- for h- sound amid and at end of a word. 
-Keep uj, ŭe and uo. 
+Keep uj, ŭe and ŭo. 
 
 1. For the final letter, write s- for sa-gjau, c- for ta-gjau, z- for za-gjau, d- for da-gjau. 
 
