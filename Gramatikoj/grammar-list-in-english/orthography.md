@@ -92,10 +92,10 @@ Sound of Letters
 Spelling Rules
 --------------
 
-1. Do not put three constants together. If a compound word will have three constants
+1. Do not put three consonants together. If a compound word will have three consonants
    together, always add a hyphen therein; elsewhere, spellings must be simplified, 
-   and only the first and last constants shall remain, e.g. GR astro -> asro. 
-   * However, ŭ, and j do not count as a constant in this rule. 
+   and only the first and last consonant shall remain, e.g. GR astro -> asro. 
+   * However, ŭ, and j do not count as a consonant in this rule. 
 1. When i, and u meet adjacently in _one syllable_, always __change i to j__, and __keep u__. 
    That means always spelling as ju, uj ; instead of iŭ, ŭi. 
 
@@ -105,11 +105,11 @@ Syllables and Accents
 1. One vowel forms and only forms one syllable. 
    * E.g. kŭatro is two syllables kŭat-ro, and if it were spelt as kuatro, there would be three syllables ku-at-ro. 
    * E.g. Tabioreno is five syllables ta-bi-o-re-no. If it were spelt as Tabjoreno, there would be four: ta-bjo-re-no. 
-1. One syllable has only one final-consonance whenever possible. 
+1. One syllable has only one final-consonant whenever possible. 
    * E.g. kŭatro is kŭat-ro, not kŭa-tro. 
    * E.g. kast has to be kast. However, Mundolingŭo word forming evades the case for most times. 
    * J and ŭ do not count as final-constant here. 
-1. Preferably break between two non-j-ŭ-consonances. E.g. kŭatro is kŭat-ro, not kŭa-tro. 
+1. Preferably break between two non-j-ŭ-consonants. E.g. kŭatro is kŭat-ro, not kŭa-tro. 
 1. Do not break j or ŭ from the vowel directly before it, unless in the case of the following statement. 
    * E.g. oja is oj-a, not o-ja. 
 1. If j or ŭ does not have a vowel directly before it, but have one directly after it, do not break inbetween. 
@@ -117,9 +117,9 @@ Syllables and Accents
    * It is a simple conclusion from the rule of one vowel, one syllable. 
    * However, when there is still j or ŭ directly after the vowel, the break must be there if it is necessary to break syllables. 
       * E.g. kjaj (no necessarity to break), kja-ja (need to break), kŭaj, kŭa-ja, kjaŭ, kja-ŭø, kŭøŭ, kŭø-ŭæ. 
-1. Do not break non-j-ŭ-consonance + j/ŭ + vowel unless no other possibilities exist. 
+1. Do not break non-j-ŭ-consonant + j/ŭ + vowel unless no other possibilities exist. 
    * E.g. Karnjo is kar-njo, Sañŭo is sa-ñŭo. 
-1. Do break j/ŭ + non-j-ŭ-consonannce + vowel after j or ŭ unless it violates other rules. 
+1. Do break j/ŭ + non-j-ŭ-consonant + vowel after j or ŭ unless it violates other rules. 
    * E.g. bajka is baj-ka, not bajk-a (though in the source language the form _bajk_ is a word). 
 1. Accents always fall on the last second syllable. 
    * If the accent has to be fall otherwise, the acute accent must be written out e.g. kákaka, kakaká. 
