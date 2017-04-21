@@ -30,7 +30,7 @@ In such cases zero is read as ÆR, with a very trilling, hard, and strong R.
 Zero
 ----
 
-The number zero is expressed with _koño_. It does not negate a sentence, nor a word/phrase. It is never used in numbers not 0. 
+The number zero is expressed with _koño_. It does not negate a sentence, nor a word/phrase. It is never used in numbers not 0, though it can represent a 0 in a non-zero number: as deka gaŭ koño. 
 
 Larger numbers
 --------------
