@@ -25,7 +25,7 @@ DA, ŜU, TI, KO, PE, MY, NØ, OĤ, EN.
 
 To distinguish four and eight more clearly, Ĥ in OĤ must be pronounced very hard and strong. 
 
-In such cases zero is read as Æ. 
+In such cases zero is read as ÆR, with a very trilling, hard, and strong R. 
 
 Zero
 ----
