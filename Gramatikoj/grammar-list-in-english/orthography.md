@@ -108,7 +108,7 @@ Syllables and Accents
 1. One syllable has a single final-consonant and a single initial-consonant whenever possible. 
    * E.g. kŭatro is kŭat-ro, not kŭa-tro. 
    * E.g. kast has to be kast. However, Mundolingŭo word forming evades the case for most times. 
-   * J and ŭ do not count as final-constant here. 
+   * J and ŭ do not count as final-consonant here. They also do not count as the second, third etc. initial-consonant. 
 1. Preferably break between two non-j-ŭ-consonants. E.g. kŭatro is kŭat-ro, not kŭa-tro. 
 1. Do not break j or ŭ from the vowel directly before it, unless in the case of the following statement. 
    * E.g. oja is oj-a, not o-ja. 
